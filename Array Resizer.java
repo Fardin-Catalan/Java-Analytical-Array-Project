@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class mahi_rak_prob{
+public class mahi{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the length of an array:");
