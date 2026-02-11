@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lab_07_cw_4{
+public class main{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the length of the array:");
